@@ -1,0 +1,6 @@
+{
+  "name": "饗聚 Bistro - 智慧餐廳訂位與桌況管理系統",
+  "description": "提供顧客線上訂位、訂位查詢及取消、會員中心，並包含桌況平面圖、現場安排與營運統計的專業餐廳後台管理系統。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
